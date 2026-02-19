@@ -107,8 +107,8 @@ Version Control:
 
 ## Connect
 
-LinkedIn: [Add Link]
-Email: [Add Email]
+LinkedIn: https://www.linkedin.com/in/sujal-jamsandekar/
+Email: sujaljamsandekar@gmail.com
 
 ---
 
